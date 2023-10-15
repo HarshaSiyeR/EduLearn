@@ -1,1 +1,1 @@
-# EduLearn
+# Attendance Tracker
