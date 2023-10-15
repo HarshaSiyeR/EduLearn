@@ -38,7 +38,7 @@ m3 = "warning!!! you can take only one more day leave for DM class"
 
 
 def savefile(): 
-	book.save(r'D:\\attendance.xlsx') 
+	book.save(r'AttendanceTracker.xlsx') 
 	print("saved!") 
 
 
